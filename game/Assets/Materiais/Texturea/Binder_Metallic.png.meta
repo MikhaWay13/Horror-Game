@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 13ee2726e4a282945a336d0f3c3d9c5b
+guid: dc39b4d23de49464ebf45dd11d6dae72
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Binder_Metallic.png
+  uploadId: 779268

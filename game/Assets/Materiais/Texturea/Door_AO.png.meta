@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 018cbef77875b144bafe9a8aaaddd70e
+guid: f3d8e31c8f44e614a9d814771b49f4cb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Door_AO.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 66d9e0736c38eac4bba9d420c62e4a9b
+guid: 80258604e513436439eb5f6acc0eee63
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeCeiling001_AO.png
+  uploadId: 779268

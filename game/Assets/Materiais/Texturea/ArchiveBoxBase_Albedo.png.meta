@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a708e412c7e204a4ca6a348dd84fac86
+guid: 5719f9b3d69cb93419588489b77cf144
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ArchiveBoxBase_Albedo.png
+  uploadId: 779268

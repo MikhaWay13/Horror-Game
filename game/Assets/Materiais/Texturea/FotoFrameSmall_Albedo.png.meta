@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1441460a25da47a4bad94c15b01cd3d5
+guid: b102d8de26753ed49a7cfcc2d273b509
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FotoFrameSmall_Albedo.png
+  uploadId: 779268

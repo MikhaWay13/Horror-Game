@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 53aff00569af6224094494d5081ef29e
+guid: 33b615fc1547f6947b55ea31d6afcf4f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PCScreen_Height.png
+  uploadId: 779268

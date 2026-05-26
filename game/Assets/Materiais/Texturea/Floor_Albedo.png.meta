@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d564bcadcc9957459171b73e684bc08
+guid: 4550adfcd07926240a0654e245980043
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Floor_Albedo.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 96969fa16d2a968469809c33bf937431
+guid: 829f346f3a92f904f8654ed574516c84
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Lamp01_Height.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c616fe57b8e0cff48b8cf85bfc70f8a2
+guid: e9f789c189fbf534a94a86631edef50d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Floor_Metallic.png
+  uploadId: 779268

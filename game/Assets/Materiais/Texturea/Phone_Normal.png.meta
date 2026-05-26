@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e0efc6bf2bf81ac40a02de8d561e4856
+guid: e20b4f955e17f4144911c2c322793600
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Phone_Normal.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c918e264550bb774cbbe10ccc19261fe
+guid: 0ac1cded2e7894247839347cad67e880
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FotoFrameSmal_Height.png
+  uploadId: 779268

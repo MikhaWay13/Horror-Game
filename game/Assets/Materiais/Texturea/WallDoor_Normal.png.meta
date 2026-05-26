@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cd65bf9fec820647ae9ef74d97e571b
+guid: 54f68201c10f3f04897fecdf3e21ba38
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallDoor_Normal.png
+  uploadId: 779268

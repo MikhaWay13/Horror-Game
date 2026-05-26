@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 615d8296020bf6d44bf9ec64ea0ab1b3
+guid: b38d5eb2037fa1f4eb7ce26dea95b9fb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FireAlarm_Albedo.png
+  uploadId: 779268

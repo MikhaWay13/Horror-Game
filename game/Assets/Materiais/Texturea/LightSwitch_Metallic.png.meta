@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 439bce8ba12bf864bb87e6039d3fee2b
+guid: df0e496a7d607ec419d1aa8126da5c9f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/LightSwitch_Metallic.png
+  uploadId: 779268

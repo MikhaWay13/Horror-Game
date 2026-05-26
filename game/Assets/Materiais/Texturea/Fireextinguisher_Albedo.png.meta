@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fe5489ddc44380b48a0470913a7bc075
+guid: 78ceb7d1feca84947b4d1f6485a4656e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Fireextinguisher_Albedo.png
+  uploadId: 779268

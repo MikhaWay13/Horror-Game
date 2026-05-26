@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e053b336a56c5c0439c01cc518f6818f
+guid: ce2f40fc32ca66f43ba2ef46f0afc463
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/SmokeDetector_AO.png
+  uploadId: 779268

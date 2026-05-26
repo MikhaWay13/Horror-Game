@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 36d15726968bb6d46a99cc23d76ba719
+guid: 9a257d1af8b8e0549b8b7b507c7e6ff1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Archive Cabin_Albedo.png
+  uploadId: 779268

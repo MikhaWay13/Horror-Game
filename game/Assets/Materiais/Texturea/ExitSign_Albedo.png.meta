@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c612210a1bc9514793f78c633af829d
+guid: 343a8dc1b2a263d44865b379d3217d3a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ExitSign_Albedo.png
+  uploadId: 779268

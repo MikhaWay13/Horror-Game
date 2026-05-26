@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 398ddc3b75ebbc74ba8baeb2a811e6ae
+guid: f25382bd5f0b7344a93489c5a5e28579
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskTop_Normal.png
+  uploadId: 779268

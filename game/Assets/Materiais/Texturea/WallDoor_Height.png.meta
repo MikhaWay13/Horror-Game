@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d46c31836234a544ea69046b034809b2
+guid: 5364e7a8a7e21e74d807e2a8f55c527d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallDoor_Height.png
+  uploadId: 779268

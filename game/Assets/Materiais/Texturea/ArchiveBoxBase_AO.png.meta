@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7684bca981b3a97488c7b083631a69ed
+guid: a2d5d2e17280fb64db4941012f68581f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ArchiveBoxBase_AO.png
+  uploadId: 779268

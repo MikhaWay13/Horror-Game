@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3f26487ef081fa14a873f9f8e67e7804
+guid: e853f1f5da393f34fb559015cfc8e02d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Clock_AO.png
+  uploadId: 779268

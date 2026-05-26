@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec5bf4ccc447d7e40b243cbac9624177
+guid: 3111dad8dd2b4f7488a11f1efb6e9e8b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaftHolder_AO.png
+  uploadId: 779268

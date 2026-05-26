@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2119108722016254bb06c6c76eda020a
+guid: 3efb608f9de3ede45ab1b0dba18cd26c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeChair_AO.png
+  uploadId: 779268

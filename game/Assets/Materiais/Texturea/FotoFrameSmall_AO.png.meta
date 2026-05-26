@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b9c38c975926fcb439739b5b28cc5272
+guid: 842883bfa8354334195594f6578df6c7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FotoFrameSmall_AO.png
+  uploadId: 779268

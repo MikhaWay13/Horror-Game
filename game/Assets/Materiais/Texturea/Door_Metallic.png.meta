@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 755f4d722efc9d745998f7cf8422237f
+guid: 6e89500612d407d4e85715031605bd6d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Door_Metallic.png
+  uploadId: 779268

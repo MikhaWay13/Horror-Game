@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5599187991f77564cad85540ab44eb1f
+guid: e7d304f624d084b4cbad2e9d54111064
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Drawer03_Metallic.png
+  uploadId: 779268

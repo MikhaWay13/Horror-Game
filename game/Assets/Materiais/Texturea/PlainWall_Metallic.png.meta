@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2d6d7e53077ec0c47823a61afb6c949b
+guid: 01195e16681ff624b8b03d8942bf57cd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PlainWall_Metallic.png
+  uploadId: 779268

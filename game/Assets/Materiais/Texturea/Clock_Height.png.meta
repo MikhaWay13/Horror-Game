@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5aa0c9c1606479c4797f969832bab4f7
+guid: a8cc67e356c0a5d4690415a84c099ec6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Clock_Height.png
+  uploadId: 779268

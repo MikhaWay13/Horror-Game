@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ce93b1c4fd83a2c4e9b0b6b8ba339733
+guid: 13369401caf9d9f42b7b63a0a319e028
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ExitSign_AO.png
+  uploadId: 779268

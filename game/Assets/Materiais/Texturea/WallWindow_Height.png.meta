@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf2972d5ff6090f42b4da71bbb88b500
+guid: c383b31f1a923d64e97a882f037eecf1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallWindow_Height.png
+  uploadId: 779268

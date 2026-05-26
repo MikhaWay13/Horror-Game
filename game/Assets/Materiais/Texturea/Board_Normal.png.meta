@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e4ce97b0ec9621448b8e3143c3341464
+guid: 4b57a2db09ff6864aa0d73757d1f6638
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Board_Normal.png
+  uploadId: 779268

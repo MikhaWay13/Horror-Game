@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 95f1412139109bc4487178a1cf896b0b
+guid: ba59d2cb4ecce15448b3f84e44510824
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaft02_Albedo.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ed5f1f7b0e8ea374d907dbf34703f3b1
+guid: a663f754ebaf45c4c869eb51c9e01a20
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Board_Metallic.png
+  uploadId: 779268

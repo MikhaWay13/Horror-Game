@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cae82a0a0c4d4f540964e3155cbd17b6
+guid: 2145b61bf6e587f4c9383b3e33c5f75c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Phone_Metallic.png
+  uploadId: 779268

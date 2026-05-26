@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4894525f7d9f91b48981270d778f84f1
+guid: 9e8d4a44fe396fc43801dd6750a05ced
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Door_Normal.png
+  uploadId: 779268

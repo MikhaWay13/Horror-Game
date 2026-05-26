@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ee72a7710c54e0a4ea9c88f03dd73de6
+guid: 036689bf995fda04f94ca787957d3971
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirVent_Albedo.png
+  uploadId: 779268

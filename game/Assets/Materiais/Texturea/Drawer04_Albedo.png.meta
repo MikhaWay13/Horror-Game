@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d495afb9ca7e49341853b2ec78c29fd0
+guid: dd12387e2c1c3b648a97d86093dcf0cd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Drawer04_Albedo.png
+  uploadId: 779268

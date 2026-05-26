@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 19dc556b12bf7f24c8d172f099a18940
+guid: ba9706d17fc57184d83c45c0c63410eb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Mouse_Height.png
+  uploadId: 779268

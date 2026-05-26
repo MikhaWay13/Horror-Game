@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0526dfa66bd34e94ea4efce6a114ead1
+guid: 46a81f407bb9c604e893caa0838b5f82
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Lamp01_Metallic.png
+  uploadId: 779268

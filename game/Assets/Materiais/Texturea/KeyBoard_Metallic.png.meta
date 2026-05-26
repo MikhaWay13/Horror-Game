@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dfc66e5ce3885914192bda6f91f62d2f
+guid: 155fe0b674a41ae4985a7caff8d9e1ab
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/KeyBoard_Metallic.png
+  uploadId: 779268

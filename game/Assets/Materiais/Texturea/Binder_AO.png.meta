@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7bd705fa6f3a3fb40b0e1253f778b23e
+guid: 814d529feb022f94f8366fb5cf6e7f3a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Binder_AO.png
+  uploadId: 779268

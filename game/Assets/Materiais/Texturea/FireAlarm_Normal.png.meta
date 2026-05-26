@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 46ae659debb8ab04d9471e16326243fc
+guid: 1d5c80b50c565be4fabc8453cc05974d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FireAlarm_Normal.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 59e9250b77c8df94495baf29d2359125
+guid: c756409a962740a4c986379fed0a8df5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/KeyBoard_Height.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dc9968b0605a3f64bb4e57d7f75c2905
+guid: 93d4d67fb4bb1ee4f8b206f05102fc69
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Floor_Height.png
+  uploadId: 779268

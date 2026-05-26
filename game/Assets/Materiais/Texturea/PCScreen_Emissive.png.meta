@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2094398c6fb6c3e4790479a6a54f6dad
+guid: 48fff06b22ba88347a9855d24f07532b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PCScreen_Emissive.png
+  uploadId: 779268

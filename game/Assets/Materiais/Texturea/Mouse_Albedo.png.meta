@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ad303e4211ecd7145ac533104fd9ad46
+guid: 2fa1ba311f761e145bf55d427ed02594
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Mouse_Albedo.png
+  uploadId: 779268

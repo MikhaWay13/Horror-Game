@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fde1ed8ab200f104886645ec645c872a
+guid: fc7edc22c2c34d6439a8247a79a13751
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirVent_Metallic.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 79e79bc7362707e458116f87ec327d9f
+guid: 1f2413deeb72822409519e8169dbb28e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallDoor_Albedo.png
+  uploadId: 779268

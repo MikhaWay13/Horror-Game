@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 56bf438ba655b064e963abded97b7638
+guid: e3d39de7c7f215b48a664aed0ae837db
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Phone_Height.png
+  uploadId: 779268

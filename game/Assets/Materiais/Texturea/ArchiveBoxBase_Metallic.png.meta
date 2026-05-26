@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: abb0b3b4422f0364c94e03d4d715809b
+guid: 9fc4d0da2083a844c933dd8eba1dd23d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ArchiveBoxBase_Metallic.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3dd22b4121fc1a743978c86be753fe75
+guid: b5e528fbde3b0124c8f5db0d923b9a39
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeCeiling001_NormalDX.png
+  uploadId: 779268

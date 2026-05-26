@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 980cb4801b3668448b9c28cae0fb3216
+guid: 2ceec8ef6208afb49870351b0dc98b43
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Clock_Metallic.png
+  uploadId: 779268

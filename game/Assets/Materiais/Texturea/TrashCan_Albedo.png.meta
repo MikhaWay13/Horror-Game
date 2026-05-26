@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 91b37b5cd2bd26545abef54bf7ed3aea
+guid: 14e24b4cc64a0c84381adc24eee4310f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/TrashCan_Albedo.png
+  uploadId: 779268

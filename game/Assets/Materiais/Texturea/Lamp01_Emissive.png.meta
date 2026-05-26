@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e0f3b23f7cad09e43b442ca5b1f9e0b9
+guid: 27dcabf1f9c9a0548949b68f320a86fb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Lamp01_Emissive.png
+  uploadId: 779268

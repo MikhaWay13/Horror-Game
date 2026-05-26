@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 498b5a2539e3f40409cf1d583445fdaa
+guid: 2f840c3bd135a53469cc9b60ee233fc7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PCScreen_Normal.png
+  uploadId: 779268

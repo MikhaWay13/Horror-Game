@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 03cc7bc90346bdc4f93d061c9c126e59
+guid: 4a4e9e9570e77534cbc77e01968f6773
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Drawer03_Height.png
+  uploadId: 779268

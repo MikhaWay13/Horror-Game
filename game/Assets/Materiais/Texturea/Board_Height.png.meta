@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8eb25c305e2f35a40b0ed313a23d3699
+guid: 2e88b3ba4459bc74ba28a82010561d6c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Board_Height.png
+  uploadId: 779268

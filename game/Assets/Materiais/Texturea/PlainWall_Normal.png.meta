@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e0bd2ef6b6bd7848a272046209ad238
+guid: d3cc286d1ac94d140ac6783de80a552f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PlainWall_Normal.png
+  uploadId: 779268

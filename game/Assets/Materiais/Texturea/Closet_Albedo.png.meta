@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dcb557a0b7398834eab6a12d925d28f6
+guid: 076f77b624a77e14788aeefc5ceadb3b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Closet_Albedo.png
+  uploadId: 779268

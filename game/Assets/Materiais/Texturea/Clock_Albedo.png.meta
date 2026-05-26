@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6c0bdecd6de945d4eb7279325794601a
+guid: 94ba7781f8735e9498bdfd7d665b8d71
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Clock_Albedo.png
+  uploadId: 779268

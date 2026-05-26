@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 91b6eb6644357964fa2006276371a27b
+guid: fad410ad4a7ead047a532edb1ce2e183
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FotoFrameSmall_Normal.png
+  uploadId: 779268

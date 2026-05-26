@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ce9bfc4c5a2aef4482589fd450095b4
+guid: 50a22bc21c87466439b18611678ccb69
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirVent_Height.png
+  uploadId: 779268

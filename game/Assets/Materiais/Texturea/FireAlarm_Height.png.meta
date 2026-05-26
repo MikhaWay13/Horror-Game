@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5aec6929c36e2c4f9f3db3e11cc424b
+guid: d9809bcb5940c56439611721f985a9a4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FireAlarm_Height.png
+  uploadId: 779268

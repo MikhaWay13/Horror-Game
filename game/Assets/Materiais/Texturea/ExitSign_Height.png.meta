@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4cbfc73591b757b4a843a37b00281ba6
+guid: e20a4fa83a292aa409f4a302bd38f712
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ExitSign_Height.png
+  uploadId: 779268

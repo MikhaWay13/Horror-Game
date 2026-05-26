@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 89c75393fa9c1ec4cb76238b02d94b80
+guid: a607c3a08299a094a90f7dc06fb73a73
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Chair_Height.png
+  uploadId: 779268

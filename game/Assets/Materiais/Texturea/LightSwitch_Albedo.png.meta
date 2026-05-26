@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 50918ebd1c2af7e4c9d7934e42187349
+guid: 6800d025ab5eed446adf619d87070015
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/LightSwitch_Albedo.png
+  uploadId: 779268

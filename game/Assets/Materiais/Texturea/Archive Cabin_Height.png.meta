@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cf4de2cdf26504b4786e1fc0cea0dc34
+guid: 4e8bdb1b73c555b42bb428c646fb801c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Archive Cabin_Height.png
+  uploadId: 779268

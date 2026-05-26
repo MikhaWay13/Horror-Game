@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a0ecce80b46b21746888fc519b75af94
+guid: f7460c648c11d134ab93d75087f97360
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Board_AO.png
+  uploadId: 779268

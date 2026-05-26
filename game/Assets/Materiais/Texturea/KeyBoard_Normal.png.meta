@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ff46b98442452f64ea32d03b802e94c4
+guid: 50b5a86111494e74581f952698c8ae70
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/KeyBoard_Normal.png
+  uploadId: 779268

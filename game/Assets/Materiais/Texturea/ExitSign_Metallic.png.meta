@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c0bbd33376004ca49afbba954e350930
+guid: 139b53a610e12424cb7c0ff515f7029a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ExitSign_Metallic.png
+  uploadId: 779268

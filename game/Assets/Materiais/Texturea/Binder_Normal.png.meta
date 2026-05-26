@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6ed50f1dd70f4b64c89d39e5c7c7c08e
+guid: 59709887254c4e248b3ff1039e504996
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Binder_Normal.png
+  uploadId: 779268

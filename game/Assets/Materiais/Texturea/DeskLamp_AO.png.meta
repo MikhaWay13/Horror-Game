@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7319b183251c39a46bfe39356ca04857
+guid: 82f2f7bcd57aeba4eae33467a8faaadf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskLamp_AO.png
+  uploadId: 779268

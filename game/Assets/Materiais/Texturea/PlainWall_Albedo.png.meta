@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 752254dbd7673a54a9b76f8b6a8c8396
+guid: 3d0cc078f7b183740b7f278f749ca35e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PlainWall_Albedo.png
+  uploadId: 779268

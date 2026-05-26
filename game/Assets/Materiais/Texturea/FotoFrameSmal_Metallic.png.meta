@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7c53be345ef64ec45b96e8bb71fc8992
+guid: 934b55cc8aa58d4428dc7f3f7a7c745c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FotoFrameSmal_Metallic.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9649f350fe9083b40a4689c28c5b7cbc
+guid: 168cebc347f0a4f469ca276f8b0a8ca0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaft02__AO.png
+  uploadId: 779268

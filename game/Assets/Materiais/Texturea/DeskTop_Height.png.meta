@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3a69c938a47c5ae4b924cd5fe59e1f04
+guid: 5cd791dacb8bce74b8ad3ee1f2eb8c3b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskTop_Height.png
+  uploadId: 779268

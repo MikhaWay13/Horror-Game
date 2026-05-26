@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 947f1ff77e689524fa42d825ceb6b070
+guid: 451b44fc51ba2754c978080a58c6620f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/FireAlarm_Metallic.png
+  uploadId: 779268

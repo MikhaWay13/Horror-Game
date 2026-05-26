@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3cabfc23d3e586419371496dede6239
+guid: 7862328c7010cf74ba690d80e1e71d93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Clock_Normal.png
+  uploadId: 779268

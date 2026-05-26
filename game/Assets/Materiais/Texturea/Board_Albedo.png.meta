@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5e278824b9f904145b4c6fe32d09ba3f
+guid: d18f4b23a345d3c4abb372896e1a0b7d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Board_Albedo.png
+  uploadId: 779268

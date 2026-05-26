@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69eab5f4b9281734485d2bb49dc50339
+guid: 23bd71495f6dd374b8a3c2c8da15b32e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaftBend_AO.png
+  uploadId: 779268

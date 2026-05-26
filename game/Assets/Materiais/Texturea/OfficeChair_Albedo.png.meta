@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 92eb2836fc9a62c46816975e42198142
+guid: 25107b984cd6c6741aa86eaea9dced59
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeChair_Albedo.png
+  uploadId: 779268

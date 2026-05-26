@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4f405079035d1f749b73ea7a1a32f310
+guid: b1698755efa0fe840a15792c2c3fbb5c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallWindow_Metallic.png
+  uploadId: 779268

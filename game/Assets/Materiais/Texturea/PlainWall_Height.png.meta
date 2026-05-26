@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5cc63b936412fb84591a72db7e26a94b
+guid: 93fd5ebbc24500c449c2822825d358b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PlainWall_Height.png
+  uploadId: 779268

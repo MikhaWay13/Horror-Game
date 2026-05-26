@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69faf632770d0eb45ab1fc6fb3cbabcf
+guid: e77d9fafc8a971d40874d62709f63473
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/SmokeDetector_Albedo.png
+  uploadId: 779268

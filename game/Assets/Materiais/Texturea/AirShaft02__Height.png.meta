@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0720babfec83103469973724a4cc04d3
+guid: 0eb4915860bb2ab4dbf08849e1ef3190
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaft02__Height.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3502850b675145944ba2312e0882d983
+guid: 1469632a8eb4c784ca855e637e10b235
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskBase_Height.png
+  uploadId: 779268

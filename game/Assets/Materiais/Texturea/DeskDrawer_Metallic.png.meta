@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4830b216d0fb5b44bad2d62841fd7adf
+guid: 7101cfe19222378408c522613817d59f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskDrawer_Metallic.png
+  uploadId: 779268

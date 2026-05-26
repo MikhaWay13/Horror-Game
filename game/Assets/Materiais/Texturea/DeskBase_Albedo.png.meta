@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6a9fff4479fc3c24a94c09a050ac52af
+guid: f428b6e81a0448446bd66d9dafee4ea3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskBase_Albedo.png
+  uploadId: 779268

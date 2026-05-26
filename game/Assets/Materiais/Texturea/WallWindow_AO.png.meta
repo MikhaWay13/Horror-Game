@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ba79e919616be4841857d45fb7b447a4
+guid: de19af6177b69a547acb8c3dfaefbe44
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/WallWindow_AO.png
+  uploadId: 779268

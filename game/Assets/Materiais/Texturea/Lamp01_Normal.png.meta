@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b6e97d646520ecc47a554c07cda50283
+guid: f5bdb107e7d6f4a47b5c208f1b7cccac
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Lamp01_Normal.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0f815b8aa2ecee241b7557c28e34d681
+guid: cf4bc7432fbf2d045859eae37175a153
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskLamp_Metallic.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5c1114d9861a1d24db55a8eb50aff4dd
+guid: 2240d230a4155a1408ef4e9a7c9eb715
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Archive Cabin_AO.png
+  uploadId: 779268

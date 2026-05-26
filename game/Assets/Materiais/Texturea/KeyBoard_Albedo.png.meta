@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9b4c19d0e8526ab4fb4f79869c46206f
+guid: bfa34f576905fa8489e9e000c789dac7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/KeyBoard_Albedo.png
+  uploadId: 779268

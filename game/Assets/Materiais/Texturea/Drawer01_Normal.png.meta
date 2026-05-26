@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a568c5a6c9ebf7a4eb9ac7ad67164cb5
+guid: 159c720cc752d4240aa8477b3d75c48b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Drawer01_Normal.png
+  uploadId: 779268

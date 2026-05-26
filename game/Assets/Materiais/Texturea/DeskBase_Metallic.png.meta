@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a354b258a5deb5a4b8d2ac47037099fd
+guid: 5dcb8b800dd58cc44b43058b6dff4864
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskBase_Metallic.png
+  uploadId: 779268

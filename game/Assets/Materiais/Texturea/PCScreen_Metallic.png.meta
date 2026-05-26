@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2cddc9fe6fa46134ea9ee3e1a90fd8c5
+guid: 7cb873a411b83e948b7b65a9e5316143
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/PCScreen_Metallic.png
+  uploadId: 779268

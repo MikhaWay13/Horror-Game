@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 246beba59388d3c4ca5bacf3c1d58a0e
+guid: 20c095d808ae6c249a68e6d9b4fc0b9d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Phone_AO.png
+  uploadId: 779268

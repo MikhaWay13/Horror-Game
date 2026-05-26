@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85a1825eec12d7f4594d2ad367adec20
+guid: bcf77410b3060f24393fea5606530af7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Closet_Metallic.png
+  uploadId: 779268

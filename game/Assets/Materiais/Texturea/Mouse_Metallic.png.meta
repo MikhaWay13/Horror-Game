@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 23db22c88f0b6f547879dd20b96b64d1
+guid: 4469aff05acb31e44b42668f7781f759
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Mouse_Metallic.png
+  uploadId: 779268

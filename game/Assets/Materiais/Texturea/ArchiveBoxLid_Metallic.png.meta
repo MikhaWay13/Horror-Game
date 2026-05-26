@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d8bcc543b3fe0574290ad5a9bbb137fc
+guid: c2cb474a55c0cc64e81c690c0e3c5957
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ArchiveBoxLid_Metallic.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 214af70a066c1a54f98694117ec7d46b
+guid: 2f85f6e46ff07ab4ca3d1f00db3b4c50
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaft_Normal.png
+  uploadId: 779268

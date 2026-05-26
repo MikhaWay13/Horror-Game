@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dca13432fc78b614b8aa5ef4f15c1774
+guid: 4013b32f93d97c4419a5650dbf413c19
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/TrashCan_Normal.png
+  uploadId: 779268

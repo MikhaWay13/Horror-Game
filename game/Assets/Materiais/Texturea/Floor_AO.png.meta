@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3c5918b53023ba479fa740621e03ff8
+guid: 13fca4ab134326847ab093742ebd0e46
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Floor_AO.png
+  uploadId: 779268

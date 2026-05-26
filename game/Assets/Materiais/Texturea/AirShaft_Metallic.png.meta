@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 22d025ffa89645142a4e4db96617a0c0
+guid: ad8b5d83d813f96469e8211544ad9032
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirShaft_Metallic.png
+  uploadId: 779268

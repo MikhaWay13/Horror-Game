@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a69f6bf0bedfa5e4f89d943312f4a5ab
+guid: 2ce2b4ccea28b044893826e281a25a9e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ExitSign_Emissive.png
+  uploadId: 779268

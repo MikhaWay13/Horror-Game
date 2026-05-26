@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 34db34bac71925546ac8f43532fa736e
+guid: f4b153ba00b547347abb713d871bcfef
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/ArchiveBoxLid_AO.png
+  uploadId: 779268

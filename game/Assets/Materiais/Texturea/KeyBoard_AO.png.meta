@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 77a5cab20ffcb814c826cf5616cea4de
+guid: d5243f36304dbf34fb628d0e3509c210
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/KeyBoard_AO.png
+  uploadId: 779268

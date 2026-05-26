@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 46963c5b355fc204eb00adc844718ea3
+guid: dad9a89e2068d62459698a5b0087a500
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskTop_Metallic.png
+  uploadId: 779268

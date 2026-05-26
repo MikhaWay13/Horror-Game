@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6a54fdd3d4b62484faa5f3d6a1027fe6
+guid: 5c23c5f2dea6cc14faeaca8b2eb7f7fc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskLamp_Emissive.png
+  uploadId: 779268

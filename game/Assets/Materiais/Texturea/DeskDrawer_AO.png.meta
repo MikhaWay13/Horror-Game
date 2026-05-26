@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4af3310d4e53eb641866f759a3c3a39d
+guid: c6f8d3602f0d5ba418bd1ae4c14a909a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskDrawer_AO.png
+  uploadId: 779268

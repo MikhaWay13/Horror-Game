@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 50552e5748a278947b622b6db7e3586d
+guid: eff6627723734fc499cafb065f704c01
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Lamp01_Albedo.png
+  uploadId: 779268

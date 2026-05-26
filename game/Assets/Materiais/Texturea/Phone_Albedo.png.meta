@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2aac3bc137d8ad547a88f24e3e558cba
+guid: 5d784cb7f9f6c7a4884f470e32ae54b7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Phone_Albedo.png
+  uploadId: 779268

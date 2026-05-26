@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a761ecf5b7ed5b343a01643b0a5f8a34
+guid: cd8c414bd543b474e8c793729b9a54d7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/AirVent_Normal.png
+  uploadId: 779268

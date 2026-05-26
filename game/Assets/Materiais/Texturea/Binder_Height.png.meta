@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 48a9402248a979b4a931a705656d846b
+guid: f648dd66bc14c4546a034700e1ea2f4d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Binder_Height.png
+  uploadId: 779268

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8cc4822f1891ebc47b6ca11a2386b1d0
+guid: 94e4e2a9a38339c47ac18a7f220312ae
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/DeskBase_AO.png
+  uploadId: 779268

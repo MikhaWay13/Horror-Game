@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 61138ef917bc4184db39775e9dfd4965
+guid: 243ff56acb00d6c45b2daff608f86788
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeCeiling001_Metalness.png
+  uploadId: 779268

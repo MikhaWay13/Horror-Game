@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 25602b145ec64b544b6560f053937ff3
+guid: a908958794c9d4a4fb83f2fab32bcb9d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeCeiling001_Roughness.png
+  uploadId: 779268

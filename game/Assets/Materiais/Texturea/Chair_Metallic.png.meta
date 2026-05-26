@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 540ecc8f367f0964a8232985ebc8e96e
+guid: c69490dcfcf6a0a46a4feda4ebacaba0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Chair_Metallic.png
+  uploadId: 779268

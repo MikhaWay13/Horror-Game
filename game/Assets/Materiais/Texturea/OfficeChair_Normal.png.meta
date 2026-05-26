@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6258fcc10b0684e4eaaae932770b060e
+guid: 4af1ab82da607204b8bc99a27c5abb92
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/OfficeChair_Normal.png
+  uploadId: 779268

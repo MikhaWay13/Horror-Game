@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 82c9045af16e7c64db65a7384e754d58
+guid: 4d2257372e7d35244a89d868c3177db1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329079
+  packageName: Office environment
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Textures/Closet_Normal.png
+  uploadId: 779268
