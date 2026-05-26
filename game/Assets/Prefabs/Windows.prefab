@@ -49,12 +49,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: db053f86a2829674aa0b7b517a05c04b, type: 3}
-      propertyPath: m_Materials.Array.data[0]
+      propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 9c1ee7d908701104fbf4ea480f56e9dc, type: 2}
     - target: {fileID: 919132149155446097, guid: db053f86a2829674aa0b7b517a05c04b, type: 3}
       propertyPath: m_Name
       value: Windows
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db053f86a2829674aa0b7b517a05c04b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
