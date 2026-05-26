@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using FMODUnity;
+using FMOD.Studio;
 
 [RequireComponent(typeof(CharacterController))]
 public sealed class FirstPersonController : MonoBehaviour
@@ -21,6 +23,12 @@ public sealed class FirstPersonController : MonoBehaviour
     [SerializeField] private float bobSpeed = 14f;
     [SerializeField] private float bobAmount = 0.05f;
 
+    [Header("Footsteps")]
+    [SerializeField] private EventReference footstepEvent;
+    [SerializeField] private float stepInterval = 0.5f;
+
+    private float stepTimer;
+
     private CharacterController characterController;
     private PlayerControls controls;
 
@@ -36,6 +44,7 @@ public sealed class FirstPersonController : MonoBehaviour
     private void Awake()
     {
         characterController = GetComponent<CharacterController>();
+
         controls = new PlayerControls();
 
         if (cameraTransform == null)
@@ -62,12 +71,14 @@ public sealed class FirstPersonController : MonoBehaviour
     private void OnEnable()
     {
         controls.Player.Enable();
+
         LockCursor();
     }
 
     private void OnDisable()
     {
         controls.Player.Disable();
+
         UnlockCursor();
     }
 
@@ -79,14 +90,17 @@ public sealed class FirstPersonController : MonoBehaviour
     private void Update()
     {
         ReadInput();
+
         HandleLook();
         HandleMovement();
         HandleHeadBob();
+        HandleFootsteps();
     }
 
     private void ReadInput()
     {
         moveInput = controls.Player.Move.ReadValue<Vector2>();
+
         lookInput = controls.Player.Look.ReadValue<Vector2>();
     }
 
@@ -97,9 +111,17 @@ public sealed class FirstPersonController : MonoBehaviour
         transform.Rotate(Vector3.up * lookDelta.x);
 
         cameraPitch -= lookDelta.y;
-        cameraPitch = Mathf.Clamp(cameraPitch, -maxLookAngle, maxLookAngle);
 
-        cameraTransform.localRotation = Quaternion.Euler(cameraPitch, 0f, 0f);
+        cameraPitch = Mathf.Clamp(
+            cameraPitch,
+            -maxLookAngle,
+            maxLookAngle);
+
+        if (cameraTransform != null)
+        {
+            cameraTransform.localRotation =
+                Quaternion.Euler(cameraPitch, 0f, 0f);
+        }
     }
 
     private void HandleMovement()
@@ -120,19 +142,53 @@ public sealed class FirstPersonController : MonoBehaviour
             verticalVelocity = -2f;
         }
 
-        if (isGrounded && controls.Player.Jump.WasPressedThisFrame())
+        if (isGrounded &&
+            controls.Player.Jump.WasPressedThisFrame())
         {
-            verticalVelocity = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            verticalVelocity =
+                Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
 
         verticalVelocity += gravity * Time.deltaTime;
 
         Vector3 velocity = moveDirection * moveSpeed;
+
         velocity.y = verticalVelocity;
 
-        characterController.Move(velocity * Time.deltaTime);
+        characterController.Move(
+            velocity * Time.deltaTime);
     }
 
+   private void HandleFootsteps()
+{
+    if (footstepEvent.IsNull)
+        return;
+
+    if (!characterController.isGrounded)
+        return;
+
+    Vector3 horizontalVelocity = characterController.velocity;
+    horizontalVelocity.y = 0f;
+
+    bool isMoving = horizontalVelocity.magnitude > 0.1f;
+
+    if (!isMoving)
+    {
+        stepTimer = stepInterval;
+        return;
+    }
+
+    stepTimer -= Time.deltaTime;
+
+    if (stepTimer <= 0f)
+    {
+        RuntimeManager.PlayOneShot(
+            footstepEvent,
+            transform.position);
+
+        stepTimer = stepInterval;
+    }
+}
     private void HandleHeadBob()
     {
         if (cameraHolder == null)
@@ -149,38 +205,46 @@ public sealed class FirstPersonController : MonoBehaviour
         {
             bobTimer += Time.deltaTime * bobSpeed;
 
-            Vector3 holderPosition = cameraHolder.localPosition;
+            Vector3 holderPosition =
+                cameraHolder.localPosition;
 
             holderPosition.y =
                 defaultCameraY +
                 Mathf.Sin(bobTimer) * bobAmount;
 
-            cameraHolder.localPosition = holderPosition;
+            cameraHolder.localPosition =
+                holderPosition;
         }
         else
         {
             bobTimer = 0f;
 
-            Vector3 holderPosition = cameraHolder.localPosition;
+            Vector3 holderPosition =
+                cameraHolder.localPosition;
 
             holderPosition.y = Mathf.Lerp(
                 holderPosition.y,
                 defaultCameraY,
                 Time.deltaTime * bobSpeed);
 
-            cameraHolder.localPosition = holderPosition;
+            cameraHolder.localPosition =
+                holderPosition;
         }
     }
 
     private void LockCursor()
     {
-        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.lockState =
+            CursorLockMode.Locked;
+
         Cursor.visible = false;
     }
 
     private void UnlockCursor()
     {
-        Cursor.lockState = CursorLockMode.None;
+        Cursor.lockState =
+            CursorLockMode.None;
+
         Cursor.visible = true;
     }
 }
