@@ -27,33 +27,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 32000
---- !u!114 &-4500643917008041301
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/New Event
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/New Event
-  Guid:
-    Data1: -1244853794
-    Data2: 1129403643
-    Data3: 1117668017
-    Data4: -218955526
-  Banks:
-  - {fileID: -12114048654156024}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 1322
 --- !u!114 &-4270364350643507804
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89,10 +62,10 @@ MonoBehaviour:
   Path: ../fMOD/Sons_NOVO/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639160060842544896
+  lastModified: 639160096582933509
   FileSizes:
   - Name: Desktop
-    Value: 888
+    Value: 924
   Exists: 1
 --- !u!114 &-437107730570675434
 MonoBehaviour:
@@ -129,10 +102,10 @@ MonoBehaviour:
   Path: ../fMOD/Sons_NOVO/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639160060842519797
+  lastModified: 639160096582898447
   FileSizes:
   - Name: Desktop
-    Value: 2066720
+    Value: 2117472
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -153,14 +126,42 @@ MonoBehaviour:
   - {fileID: 5263306510664121261}
   - {fileID: 6214247787002111683}
   - {fileID: 118436034565525335}
-  - {fileID: -4500643917008041301}
+  - {fileID: 25637990697348839}
+  - {fileID: 5077689654871979560}
   EditorParameters: []
   MasterBanks:
   - {fileID: -12114048654156024}
   StringsBanks:
   - {fileID: -3554797082338314236}
-  cacheTime: 639160060842544896
+  cacheTime: 639160096582933509
   cacheVersion: 131636
+--- !u!114 &25637990697348839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Grito
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Grito
+  Guid:
+    Data1: -1244853794
+    Data2: 1129403643
+    Data3: 1117668017
+    Data4: -218955526
+  Banks:
+  - {fileID: -12114048654156024}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1322
 --- !u!114 &118436034565525335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -188,6 +189,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 32000
+--- !u!114 &5077689654871979560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Jumpscare
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Jumpscare
+  Guid:
+    Data1: 1368558897
+    Data2: 1236971639
+    Data3: 183589255
+    Data4: -373883682
+  Banks:
+  - {fileID: -12114048654156024}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2784
 --- !u!114 &5263306510664121261
 MonoBehaviour:
   m_ObjectHideFlags: 0
