@@ -1,7 +1,7 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using FMODUnity;
 using FMOD.Studio;
-using TMPro; // opcional, para UI de "Pressione E"
 
 public class RadioInteractable : MonoBehaviour
 {
@@ -9,47 +9,53 @@ public class RadioInteractable : MonoBehaviour
     [SerializeField] private EventReference fmodEvent;
 
     [Header("Interação")]
-    public float interactionDistance = 2f;
-    public string playerTag = "Player";
-    public KeyCode interactionKey = KeyCode.E;
+    [SerializeField] private float interactionDistance = 2f;
+    [SerializeField] private string playerTag = "Player";
 
-    [Header("UI (opcional)")]
-    public GameObject promptUI; // objeto com texto "Pressione E para desligar"
+    [Header("UI (Opcional)")]
+    [SerializeField] private GameObject promptUI;
 
     private EventInstance eventInstance;
-    private bool isPlaying = false;
+    private bool isPlaying;
     private Transform player;
 
-    void Awake()
+    private void Awake()
     {
         eventInstance = RuntimeManager.CreateInstance(fmodEvent);
-        RuntimeManager.AttachInstanceToGameObject(eventInstance, transform);
+        RuntimeManager.AttachInstanceToGameObject(eventInstance, gameObject);
 
         if (promptUI != null)
             promptUI.SetActive(false);
     }
 
-    void Update()
+    private void Update()
     {
-        if (!isPlaying) return;
+        if (!isPlaying)
+            return;
 
-        // Encontra o player se ainda não tiver referência
         if (player == null)
         {
-            GameObject p = GameObject.FindWithTag(playerTag);
-            if (p != null) player = p.transform;
+            GameObject playerObject = GameObject.FindWithTag(playerTag);
+
+            if (playerObject != null)
+                player = playerObject.transform;
+
             return;
         }
 
-        float distance = Vector3.Distance(transform.position, player.position);
+        float distance = Vector3.Distance(
+            transform.position,
+            player.position
+        );
+
         bool playerPerto = distance <= interactionDistance;
 
-        // Mostra/esconde o prompt de interação
         if (promptUI != null)
             promptUI.SetActive(playerPerto);
 
-        // Desliga ao pressionar E perto do rádio
-        if (playerPerto && Input.GetKeyDown(interactionKey))
+        if (playerPerto &&
+            Keyboard.current != null &&
+            Keyboard.current.eKey.wasPressedThisFrame)
         {
             DesligarRadio();
         }
@@ -57,33 +63,50 @@ public class RadioInteractable : MonoBehaviour
 
     public void LigarRadio()
     {
-        if (isPlaying) return;
+        if (isPlaying)
+            return;
 
-        eventInstance.start();
+        PLAYBACK_STATE playbackState;
+        eventInstance.getPlaybackState(out playbackState);
+
+        if (playbackState != PLAYBACK_STATE.PLAYING)
+        {
+            eventInstance.start();
+        }
+
         isPlaying = true;
     }
 
     public void DesligarRadio()
     {
+        if (!isPlaying)
+            return;
+
         eventInstance.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
+
         isPlaying = false;
 
         if (promptUI != null)
             promptUI.SetActive(false);
 
-        Debug.Log("Rádio desligado!");
+        Debug.Log("Rádio desligado.");
     }
 
-    void OnDestroy()
+    private void OnDestroy()
     {
-        eventInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
-        eventInstance.release();
+        if (eventInstance.isValid())
+        {
+       eventInstance.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
+            eventInstance.release();
+        }
     }
 
-    // Desenha o raio de interação no editor
-    void OnDrawGizmosSelected()
+    private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, interactionDistance);
+        Gizmos.DrawWireSphere(
+            transform.position,
+            interactionDistance
+        );
     }
 }

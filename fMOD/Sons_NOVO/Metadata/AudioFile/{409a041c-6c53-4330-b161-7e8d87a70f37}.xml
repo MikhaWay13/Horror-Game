@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{409a041c-6c53-4330-b161-7e8d87a70f37}">
+		<property name="assetPath">
+			<value>Grito/freesound_community-jumpscare-94984.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7839999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9dc27fce-2d29-4d70-9b9b-9bac71c7f1ae}</destination>
+		</relationship>
+	</object>
+</objects>
