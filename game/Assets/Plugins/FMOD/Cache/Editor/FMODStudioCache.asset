@@ -62,7 +62,7 @@ MonoBehaviour:
   Path: ../fMOD/Sons_NOVO/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639160096582933509
+  lastModified: 639160109333692486
   FileSizes:
   - Name: Desktop
     Value: 924
@@ -102,7 +102,7 @@ MonoBehaviour:
   Path: ../fMOD/Sons_NOVO/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639160096582898447
+  lastModified: 639160109333692486
   FileSizes:
   - Name: Desktop
     Value: 2117472
@@ -133,7 +133,7 @@ MonoBehaviour:
   - {fileID: -12114048654156024}
   StringsBanks:
   - {fileID: -3554797082338314236}
-  cacheTime: 639160096582933509
+  cacheTime: 639160109333692486
   cacheVersion: 131636
 --- !u!114 &25637990697348839
 MonoBehaviour:
