@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dde5c3db-b141-4ac2-adda-f2c0e036df7e}">
+		<property name="assetPath">
+			<value>BG/Japanese War Drum (bonus).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>32</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9dc27fce-2d29-4d70-9b9b-9bac71c7f1ae}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -2286,7 +2286,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 94133374}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 0.4056604, g: 0.3325298, b: 0.2238786, a: 1}
@@ -4756,6 +4756,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5666682921289619614, guid: 420cebfd60a3b144f9364e770a9572e8, type: 3}
   m_PrefabInstance: {fileID: 716903326}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &222603471
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1426325298921093922, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_Name
+      value: 'DeskBase '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.708
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.48590866
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.412
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.15200706
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9883794
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -197.487
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765556060395430296, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
 --- !u!1001 &223740262
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5809,7 +5866,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274069170}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.8113208, g: 0, b: 0, a: 1}
@@ -41351,7 +41408,7 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.07955235
+  m_Intensity: 0.09236375
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -51347,3 +51404,4 @@ SceneRoots:
   - {fileID: 1921018700}
   - {fileID: 474180991}
   - {fileID: 840023218}
+  - {fileID: 222603471}

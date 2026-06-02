@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{cc88958d-532d-4e54-a04a-16482c3e86ee}">
 		<property name="assetPath">
 			<value>BG/heavy-rain-effect-long-sound-recording_D_minor.wav</value>

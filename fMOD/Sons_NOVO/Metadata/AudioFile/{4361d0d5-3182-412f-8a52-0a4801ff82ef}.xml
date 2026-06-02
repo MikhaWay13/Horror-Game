@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4361d0d5-3182-412f-8a52-0a4801ff82ef}">
+		<property name="assetPath">
+			<value>FS/Footsteps_Tile_Walk_08.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.53952083333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9dc27fce-2d29-4d70-9b9b-9bac71c7f1ae}</destination>
+		</relationship>
+	</object>
+</objects>

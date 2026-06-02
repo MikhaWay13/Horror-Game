@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b44cd195-cff0-4c32-a844-34cd3cfa5c86}">
 		<property name="assetPath">
 			<value>BG/Intensly Broken heart.wav</value>
