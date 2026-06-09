@@ -5251,6 +5251,7 @@ GameObject:
   - component: {fileID: 250994801}
   - component: {fileID: 250994803}
   - component: {fileID: 250994802}
+  - component: {fileID: 250994804}
   m_Layer: 0
   m_Name: AudioZone
   m_TagString: Untagged
@@ -5308,6 +5309,27 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.001424, y: 2.0916176, z: 2.5276597}
   m_Center: {x: -0.6084131, y: 0.5458088, z: -0.000000029753537}
+--- !u!65 &250994804
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 250994800}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.673013, y: 1, z: 3.237159}
+  m_Center: {x: 16.436443, y: 0, z: -8.465236}
 --- !u!1 &251928908
 GameObject:
   m_ObjectHideFlags: 0
@@ -5934,7 +5956,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274069170}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.8113208, g: 0, b: 0, a: 1}
@@ -7438,7 +7460,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4363578991983522480, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1119095038}
   m_SourcePrefab: {fileID: 100100000, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
 --- !u!1 &349061327
 GameObject:
@@ -19423,7 +19448,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684678463}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 0.7075472, g: 0.5680355, b: 0.36378607, a: 1}
@@ -21548,6 +21573,105 @@ PrefabInstance:
       addedObject: {fileID: 1140999828}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 907d7a608e001f14a89dc6c08a7f0a72, type: 3}
+--- !u!1 &747265242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 747265246}
+  - component: {fileID: 747265245}
+  - component: {fileID: 747265244}
+  - component: {fileID: 747265243}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &747265243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747265242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1244853794
+      Data2: 1129403643
+      Data3: 1117668017
+      Data4: -218955526
+    Path: event:/Grito
+  Event: 
+  EventPlayTrigger: 3
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 1
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
+--- !u!114 &747265244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747265242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f83eb253ee458da45ab01f2cfbd289ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StartChaseTrigger
+  enemy: {fileID: 1119095038}
+--- !u!65 &747265245
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747265242}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.7797275, y: 3.0018358, z: 7.780246}
+  m_Center: {x: 0.38986373, y: 1.0009179, z: -0.59328604}
+--- !u!4 &747265246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747265242}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.73, y: -0.00001, z: 1.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &748910727
 GameObject:
   m_ObjectHideFlags: 0
@@ -24323,7 +24447,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883346862}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.8113208, g: 0, b: 0, a: 1}
@@ -32556,6 +32680,28 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1118019850}
   m_Mesh: {fileID: 5060444177187149915, guid: 4d5428d4020a4cb4580f2e6fd4a6bc3a, type: 3}
+--- !u!1 &1119095037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4363578991983522480, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+  m_PrefabInstance: {fileID: 348286519}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1119095038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119095037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59bccce7dda95046acbdc863e361fb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyChase
+  player: {fileID: 1435357791}
+  playerCamera: {fileID: 972661244}
+  speed: 15
+  killDistance: 0.1
+  visual: {fileID: 0}
 --- !u!1001 &1124298645
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34309,7 +34455,7 @@ Light:
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 0.7075472, g: 0.5680355, b: 0.36378607, a: 1}
-  m_Intensity: 10
+  m_Intensity: 7.279992
   m_Range: 5
   m_SpotAngle: 141.70416
   m_InnerSpotAngle: 18.45453
@@ -37947,7 +38093,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1402560501}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 0.7647059, g: 0.60784316, b: 0.35686275, a: 1}
@@ -41441,11 +41587,11 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1628564815}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.1
+  m_Intensity: 0.079041444
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -51428,3 +51574,4 @@ SceneRoots:
   - {fileID: 840023218}
   - {fileID: 222603471}
   - {fileID: 1701426041}
+  - {fileID: 747265246}
